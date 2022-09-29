@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664404390 source:c:\work\svu\012_cpp_stl\code\06_containerinsidecontainer\main.cpp
+	<iostream>
+	<vector>
+
